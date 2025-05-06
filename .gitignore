@@ -1,0 +1,23 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.zip
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Node.js
+node_modules/
+
+# Build output
+dist/
+
+# Generated files
+icons/icon16.png
+icons/icon48.png
+icons/icon128.png 
