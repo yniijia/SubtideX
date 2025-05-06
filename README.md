@@ -22,15 +22,9 @@ SubtideX is a Chrome extension that lets you extract subtitles from YouTube vide
 
 ## 📥 Installation
 
-### From Chrome Web Store
-
-1. Visit the [SubtideX page on Chrome Web Store](https://chrome.google.com/webstore/detail/subtidex/extension-id)
-2. Click "Add to Chrome"
-3. Confirm the installation
-
 ### Manual Installation
 
-1. Download the latest release from the [Releases page](https://github.com/yniijia/subtidex/releases)
+1. Download the latest release
 2. Unzip the downloaded file
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable "Developer mode" by toggling the switch in the top right
